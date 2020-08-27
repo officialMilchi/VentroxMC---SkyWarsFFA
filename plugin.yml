@@ -1,0 +1,10 @@
+name: SkyWarsFFA
+author: milchi
+main: com.officialmilchi.ffa.SkyWarsFFA
+version: 1.0
+
+commands:
+  build:
+  setkit:
+  setspawn:
+  stats:
